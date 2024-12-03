@@ -15,7 +15,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="20" height="20" /> Hands-on with **Styling techniques** using **Tailwind CSS**, **Material UI**, and **Shedcn**.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" height="20" />  Deep knowledge in **AI integration** like 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" height="20" />  Deep knowledge in **AI integration** like **OpenAI**
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="20" height="20" /> Extensive experience in **Cloud-based IIoT/Automation** solutions including **AWS IoT** and **Azure IoT** for system integration and data management.
 
@@ -62,7 +62,7 @@
 <summary>DevOps Tools</summary>
 <br>
   <p align="left">      
-    <img src="https://skillicons.dev/icons?i=git,gitlab,github,bitbucket,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,azure,jenkins,azure" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,bitbucket,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,azure,jenkins" />
  </p>
 
  <details open>
@@ -71,6 +71,11 @@
   <p align="left">      
     <img src="https://skillicons.dev/icons?i=ai,bots," />
  </p>
+
+<div align="center">
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=sargis-avetisyan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+   <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=sargis-avetisyan&theme=tokyonight&hide_border=true" />
+</div>
  
 
 
